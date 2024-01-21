@@ -1,4 +1,4 @@
--- Function to get all barbers
+-- Function to get all barber
 CREATE FUNCTION GetAllBarbers()
 RETURNS TABLE
 AS
